@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Lars Krogh
 - 👀 I’m interested in OS provisioning using code
-- 📫 Mail [me](mailto:lars@krogh.email?subject=[GitHub]%20larskroghio)
+- 📫 Mail [me](mailto:github@larskrogh.io?subject=[GitHub]%20larskroghio)
